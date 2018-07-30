@@ -1,4 +1,4 @@
-function takeANumber(line, name){
-  d
-  return "Welcome, Ada. You are number 1 in line."
+function takeANumber(linenum, name){
+  
+  katzDeliLine.push("Welcome," + name[1] + "You are number" + linenum[1] + "in line.")
 }
