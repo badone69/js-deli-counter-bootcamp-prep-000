@@ -10,5 +10,7 @@ function nowServing(katzDeliLine){
   while (i < katzDeli.length){
     i++;
   }
-  if i = 0
+  if (katzDeli.length === 0){
+    return
+  }
 }
